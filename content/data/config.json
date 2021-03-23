@@ -70,5 +70,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://agency-nextjs-9b07f.netlify.app"
 }
